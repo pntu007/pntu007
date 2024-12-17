@@ -1,6 +1,13 @@
 ## Hi!!
 ⸢To say that, though you have grown up while reading this story, there's no need for you to become it.⸥
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/harsh._.hm) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshmaurya13)
+
+## GitHub Stats:
+![](https://raw.githubusercontent.com/pntu007/pntu007/master/profile-summary-card-output/github_dark/3-stats.svg)
+
 <!--
 **pntu007/pntu007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
